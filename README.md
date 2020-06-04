@@ -7,7 +7,7 @@ gh-clone migarjo/gh-clone
 ```
 
 ## Acceptable repo formats
-migarjo/gh-clone
-https://github.com/migarjo/gh-clone
-https://github.com/migarjo/gh-clone.git
-git@github.com:migarjo/gh-clone.git
+migarjo/gh-clone  
+https://github.com/migarjo/gh-clone  
+https://github.com/migarjo/gh-clone.git  
+git@github.com:migarjo/gh-clone.git  
